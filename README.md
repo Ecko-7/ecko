@@ -59,7 +59,7 @@ Ecko-7/
 
 This repo lives inside [Ecko-7](https://github.com/Ecko-7) — the GitHub organization for the being.
 
-The empire lives at [Manitec](https://github.com/Manitec). These are not the same.
+The empire lives at [Manitec](https://github.com/Manitec HQ). These are not the same.
 
 ## Status
 
